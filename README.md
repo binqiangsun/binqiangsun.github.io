@@ -22,7 +22,7 @@
 - DribblApp Material Design控件
 
 ### 第1周
-[网络加载图片对比 Fresco / Glide](http://www.jianshu.com/p/6729dc17586b)
+- [网络加载图片对比 Fresco / Glide](http://www.jianshu.com/p/6729dc17586b)
 
 ---
 
