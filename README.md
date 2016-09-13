@@ -1,5 +1,13 @@
 # 学习计划 by SunBinqiang
 
+## 9月份目标
+- 发布app: DribbblApp
+- 阅读《Android开发艺术》 & 《Android源码设计模式与实践》
+- RxJava源码阅读
+
+### 第一周
+- 完成Android消息机制博文
+
 ## 8月份目标
 - 继续完成自主项目DribbApp
 - 阅读《Android开发艺术》 & 《Android源码设计模式与实践》
