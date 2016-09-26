@@ -5,8 +5,19 @@
 - 阅读《Android开发艺术》 & 《Android源码设计模式与实践》
 - RxJava源码阅读
 
+### 第4周
+- RxJava源码阅读
+
+### 第三周
+- 阅读《Android源码设计模式与实践》
+总结“单例模式”， “Builder 模式” “原型模式”
+
+### 第二周
+- 继续UI架构总结
+
 ### 第一周
-- 完成Android消息机制博文
+- 完成Android消息机制博文[文章](http://www.jianshu.com/p/6ed9917ff45b)
+
 
 ## 8月份目标
 - 继续完成自主项目DribbApp
