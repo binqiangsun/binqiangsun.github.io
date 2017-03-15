@@ -1,5 +1,24 @@
 # 学习计划 by SunBinqiang
 
+# 2017
+### 书单
+- 《Effective Java》
+- 《Thinking in Java》
+- 《Android源码设计模式》
+- 《Android开发艺术》
+
+## 3月份目标
+- Fresco源码总结
+- 常用设计模式， 策略模式， 模版方法模式， 桥接模式
+- Activity， Window， View关系， 点击事件的传递过程
+- Fragment与Activity
+
+- Android Studio 查看Android源码
+
+------
+
+#2016
+
 ## 10月份目标
 - RxJava源码阅读总结
 - 完成《Android源码设计模式与实践》
